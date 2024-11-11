@@ -1,2 +1,0 @@
-game.Players.LocalPlayer:Kick("you are using an outdated script. New Script Link Copied. Paste The link in your browser")
-setclipboard("https://raw.githubusercontent.com/chiper1z/Goal-Kick-Simulator/refs/heads/main/loadstring")
